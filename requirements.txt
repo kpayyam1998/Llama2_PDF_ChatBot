@@ -5,7 +5,7 @@ accelerate
 bitsandbytes
 ctransformers
 sentence_transformers
-faiss_cpu
+faiss-cpu
 streamlit
 streamlit-chat==0.1.1
 huggingface_hub 
