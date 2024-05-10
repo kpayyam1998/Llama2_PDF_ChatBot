@@ -8,4 +8,4 @@ sentence_transformers
 faiss_cpu
 streamlit
 streamlit-chat==0.1.1
-huggingface_hub
+huggingface_hub 
